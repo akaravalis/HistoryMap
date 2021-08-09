@@ -2,7 +2,6 @@
 - [ ] create a project timeline in this readme.md
 - [ ] add each task as a github issue
 - [ ] Check the OA auth google
-- [ ]
 
 # Overview
 

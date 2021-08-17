@@ -2,6 +2,15 @@
 - [ ] create a project timeline in this readme.md
 - [ ] add each task as a github issue
 - [ ] Check the OA auth google
+- [ ] Data Collection and Preparation
+- [ ] Design Database and Store Data
+- [ ] Research the model suitable for the type of Data
+- [ ] Preprocess and Label data to be sufficient
+- [ ] Establish a baseline model machine learning model using different algorithms
+- [ ] Training and testing
+- [ ] Evaluation and Comparison
+- [ ] Design User Experience
+- [ ] Test and Evaluation of the Project
 
 # Overview
 

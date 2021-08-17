@@ -1,4 +1,4 @@
-# Meeting 9 Aug 2021
+# Meeting 17 Aug 2021
 - [ ] create a project timeline in this readme.md
 - [ ] add each task as a github issue
 - [ ] Check the OA auth google

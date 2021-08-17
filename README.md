@@ -1,7 +1,8 @@
 # Meeting 17 Aug 2021
 - [ ] create a project timeline in this readme.md
 - [ ] add each task as a github issue
-- [ ] Check the OA auth google
+- [x] Check the OA auth google
+- [ ] check aws api gateway
 - [ ] Data Collection and Preparation
 - [ ] Design Database and Store Data
 - [ ] Research the model suitable for the type of Data
